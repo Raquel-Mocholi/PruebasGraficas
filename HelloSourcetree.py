@@ -1,0 +1,1 @@
+print('Soy Raquel, trabajando con un entorno gráfico para git')
